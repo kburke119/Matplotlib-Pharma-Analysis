@@ -3,12 +3,12 @@
 ## Table of Contents
 
 - [About](#about)
-- [Conclusions](#conclusions)
+- [Visuals](#visuals)
 
 ## About
 In Pymaceuticals’ most recent animal study, 249 mice  were identified with SCC tumors and received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens. The analysis below, visualizes the data provided to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
-## Conclusions
+## Visuals
 - Bar plot showing the total number of timepoints for all mice tested for each drug regimen.
 
 ![Bar](https://user-images.githubusercontent.com/10196762/214956646-0598ff6f-39c8-41dd-a67c-e0213cbebec5.jpg)
